@@ -6,7 +6,7 @@ atividade pratica
 
 <head>
 
-<title>Título da página</title>
+<title>descomplica</title>
 
 <meta charset=“utf-8”>
 
@@ -14,7 +14,7 @@ atividade pratica
 
 <body>
 
-<h1>Aqui vai um título</h1>
+<h1>atividade pratica</h1>
 
 </body>
 
